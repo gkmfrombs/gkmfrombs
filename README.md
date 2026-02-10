@@ -1,8 +1,12 @@
-<h1 align="center">Guddu Kumar Mishra</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Guddu%20Kumar%20Mishra&fontSize=60&animation=fadeIn
+  " />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Backend+Developer;Gen+AI+Project+Builder" />
 </p>
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/guddu-mishra-z">LinkedIn</a> •
@@ -24,7 +28,7 @@
 
 ---
 
-### 🧠 About
+### 🧠 Education & Background
 - Bachelors in **Data Science & Applications** (IIT Madras)
 - Interested in **AI, ML, and backend systems**
 - Strong focus on practical, real-world projects
@@ -38,6 +42,10 @@
 **ML & Data:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 **Tools:** Git, Linux, Docker, Jupyter, VS Code, Google colab
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,bash,postgres,flask,vue,redis,docker,git,linux" />
+</p>
+
 ---
 
 ### 📌 Projects
@@ -49,15 +57,14 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkmfrombs&show_icons=true&hide_border=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkmfrombs&layout=compact&hide_border=true&theme=tokyonight" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gkmfrombs&theme=tokyonight&hide_border=true"/>
 </p>
+### 🐍 Contribution Activity
+![Snake Animation](https://raw.githubusercontent.com/gkmfrombs/gkmfrombs/output/github-contribution-grid-snake.svg)
 
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=90&section=footer"/>
 </p>
