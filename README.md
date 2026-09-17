@@ -111,6 +111,15 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gkmfrombs/gkmfrombs/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+### 🧊 3D Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+  </picture>
+</p>
 <br>
 
 <p align="center">
