@@ -95,14 +95,13 @@
   <img src="https://github-stats-card-lime.vercel.app/api/toplangs?username=gkmfrombs" width="48%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gkmfrombs&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-card-lime.vercel.app/api/streak?username=gkmfrombs"/>
 </p>
 
 ### 🐍 Contribution Activity
 <p align="center">
   <img src="https://github-stats-card-lime.vercel.app/api/activity?username=gkmfrombs" width="90%" />
 </p>
-
 <br>
 
 <p align="center">
