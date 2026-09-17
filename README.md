@@ -98,9 +98,18 @@
   <img src="https://github-stats-card-lime.vercel.app/api/streak?username=gkmfrombs"/>
 </p>
 
-### 🐍 Contribution Activity
+### 📈 Weekly Trend
 <p align="center">
   <img src="https://github-stats-card-lime.vercel.app/api/activity?username=gkmfrombs" width="90%" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gkmfrombs/gkmfrombs/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gkmfrombs/gkmfrombs/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gkmfrombs/gkmfrombs/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 <br>
 
