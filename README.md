@@ -1,6 +1,14 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00b4d8,100:FFD700&height=220&section=header&animation=fadeIn" /> </p>
-<p align="center" style="margin-top: -100px;"> <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=42&duration=3500&pause=1000&color=FF512F&center=true&vCenter=true&width=650&lines=Guddu+Kumar+Mishra" /> </p>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=20&duration=3000&pause=800&color=DD2476&center=true&vCenter=true&width=560&lines=Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Full+Stack+Developer;Gen+AI+Project+Builder" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00b4d8,100:FFD700&height=220&section=header&animation=fadeIn" />
+</p>
+
+<p align="center" style="margin-top: -100px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=42&duration=3500&pause=1000&color=FF512F&center=true&vCenter=true&width=650&lines=Guddu+Kumar+Mishra" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=20&duration=3000&pause=800&color=DD2476&center=true&vCenter=true&width=560&lines=Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Full+Stack+Developer;Gen+AI+Project+Builder" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/guddu-mishra-z">
@@ -83,8 +91,8 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkmfrombs&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkmfrombs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-card-lime.vercel.app/api/stats?username=gkmfrombs" width="48%" />
+  <img src="https://github-stats-card-lime.vercel.app/api/toplangs?username=gkmfrombs" width="48%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gkmfrombs&theme=tokyonight&hide_border=true"/>
